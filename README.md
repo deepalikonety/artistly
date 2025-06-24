@@ -56,8 +56,10 @@ artistly/
 │   └── vectors/
 ├── styles/
 │   └── globals.css
+```
 
-🧠 Learning Outcomes
+---
+ ## 🧠 Learning Outcomes
 Built an end-to-end artist platform with filters and onboarding
 
 Implemented responsive design and dark mode theming
@@ -66,9 +68,13 @@ Handled form validations and local data persistence
 
 Practiced clean, reusable component structures in React/Next.js
 
+---
+
+---
 📬 Contact
 If you'd like to connect or discuss this project:
 
 Deepali Konety
 📧 deepalikonety@gmail.com
 
+---
