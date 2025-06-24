@@ -28,15 +28,6 @@ Live Demo 👉 [artistly.vercel.app](https://artistly-beige-one.vercel.app/)
 - **Theme Management:** `next-themes`
 - **Image Upload:** Cloudinary (Optional)
 
----
-
-## 📸 Screenshots
-
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![light](https://i.imgur.com/dz1vEoX.png) | ![dark](https://i.imgur.com/3CE9pAg.png) |
-
----
 
 ## 🚀 Getting Started Locally
 
@@ -80,4 +71,4 @@ If you'd like to connect or discuss this project:
 
 Deepali Konety
 📧 deepalikonety@gmail.com
-🔗 LinkedIn | GitHub
+
