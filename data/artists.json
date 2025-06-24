@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Aarav S.",
+    "category": "Singer",
+    "location": "Mumbai",
+    "priceRange": "₹10k–₹20k",
+    "image": "/assets/aarav.jpg"
+  },
+  {
+    "name": "Ishita R.",
+    "category": "Dancer",
+    "location": "Delhi",
+    "priceRange": "₹5k–₹10k",
+    "image": "/assets/ishitha.jpg"
+  },
+  {
+    "name": "Dev S.",
+    "category": "DJ",
+    "location": "Bangalore",
+    "priceRange": "₹20k+",
+    "image": "/assets/dev.jpg"
+  },
+  {
+    "name": "Niharika T.",
+    "category": "Speaker",
+    "location": "Pune",
+    "priceRange": "₹10k–₹20k",
+    "image": "/assets/niharika.jpg"
+  }
+]
